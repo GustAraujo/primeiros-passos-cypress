@@ -1,4 +1,4 @@
-class dashboardPage {
+class DashboardPage {
     selectorsList() {
         const selectors = {
             dashboardGrid: '.orangehrm-dashboard-grid',
@@ -14,4 +14,4 @@ checkDashboardPage() {
 
 }
 
-export default new dashboardPage
+export default DashboardPage
